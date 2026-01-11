@@ -9,8 +9,6 @@ header {
     width: 100%;
     background: rgb(10, 22, 55);
     border-bottom: 1px solid #000000;
-    padding-left: 20px;
-    padding-right: 20px;
 }
 
 .navbar {
@@ -419,4 +417,5 @@ body {
     padding: 24px 40px;
     font-size: 16px;
     color: #4B5563;
+
 }
